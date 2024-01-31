@@ -8,3 +8,5 @@ print("Added this line of code from techdevelopers from git terminal")
 print("Added this line of code from Github for first time")
 #-----------------------------------------------------
 print("Added this line of code from devteam1 for first time and commit")
+#-----------------------------------------------------
+print("Added this line of code from devteam2 from git terminal and push to remote repository")
